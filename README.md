@@ -18,6 +18,10 @@ npm create cloudflare@latest -- --template=cloudflare/templates/next-starter-tem
 
 A live public deployment of this template is available at [https://next-starter-template.templates.workers.dev](https://next-starter-template.templates.workers.dev)
 
+## Project Context
+
+Use `PROJECT_CONTEXT.md` to capture the evolving product brief, decisions, and operational details for this app.
+
 ## Getting Started
 
 First, run:
